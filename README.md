@@ -6,8 +6,8 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
+<img src="https://github.com/ATULTHETE27/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
+Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/ATULTHETE27/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
 
 # Technologies Used
 <ul>
@@ -34,10 +34,8 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 </ol>
 
 # Authors
-## Kaushik Jadhav
+## Atul Thete
 <ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
+<li>Github:https://github.com/ATULTHETE27</li>
+<li>LinkedIn:https://www.linkedin.com/in/atul-thete-27012003/</li>
 </ul>
