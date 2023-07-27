@@ -6,11 +6,14 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<br><br>Homepage 1
+<br><br>
+Homepage 1
 <img src="https://github.com/ATULTHETE27/Online-Food-Ordering-System/blob/main/screenshots/Homepage1.png">
-<br><br>Homepage 2
+<br><br>
+Homepage 2
 <img src="https://github.com/ATULTHETE27/Online-Food-Ordering-System/blob/main/screenshots/Homepage2.png">
-<br><br>Homepage 3
+<br><br>
+Homepage 3
 <img src="https://github.com/ATULTHETE27/Online-Food-Ordering-System/blob/main/screenshots/Homepage3.png">
 Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/ATULTHETE27/Online-Food-Ordering-System/tree/main/images">click here</a>
 
