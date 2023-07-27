@@ -7,7 +7,7 @@ Password: admin<br>
 
 # Screenshots
 <img src="https://github.com/ATULTHETE27/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/ATULTHETE27/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
+Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/ATULTHETE27/Online-Food-Ordering-System/tree/main/images">click here</a>
 
 # Technologies Used
 <ul>
