@@ -13,8 +13,7 @@ Homepage 1
 Homepage 2
 <img src="https://github.com/ATULTHETE27/Online-Food-Ordering-System/blob/main/screenshots/Homepage2.png">
 <br><br>
-Homepage 3
-<img src="https://github.com/ATULTHETE27/Online-Food-Ordering-System/blob/main/screenshots/Homepage3.png">
+
 Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/ATULTHETE27/Online-Food-Ordering-System/tree/main/images">click here</a>
 
 # Technologies Used
